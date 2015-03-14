@@ -1,0 +1,10 @@
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\bin\Debug\Update.exe.config
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\bin\Debug\Update.exe
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\bin\Debug\Update.pdb
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.Properties.Resources.resources
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\UpdateDatabase.csproj.GenerateResource.Cache
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.exe
+c:\users\randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.pdb
+C:\Users\Randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\UpdateDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.UpdateForm.resources
+C:\Users\Randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.InsertForm.resources
