@@ -1,8 +1,8 @@
 ﻿namespace Update
 {
-   public partial class StocksDataSet
-   {
-   }
+    public partial class StocksDataSet
+    {
+    }
 }
 
 namespace Update.StocksDataSetTableAdapters

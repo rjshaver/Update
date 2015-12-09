@@ -8,3 +8,13 @@ c:\users\randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Upd
 C:\Users\Randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\UpdateDatabase.csprojResolveAssemblyReference.cache
 C:\Users\Randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.UpdateForm.resources
 C:\Users\Randy\documents\visual studio 2013\Projects\Update\Update\obj\Debug\Update.InsertForm.resources
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\bin\Debug\Update.exe.config
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\Update.exe
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\Update.pdb
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\bin\Debug\Update.exe
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\bin\Debug\Update.pdb
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\UpdateDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\Update.UpdateForm.resources
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\Update.InsertForm.resources
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\Update.Properties.Resources.resources
+C:\Users\Randy\Documents\Visual Studio 2015\Projects\Update\obj\Debug\UpdateDatabase.csproj.GenerateResource.Cache
